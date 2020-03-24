@@ -1,0 +1,6 @@
+framework module Pods_TrendTestTask {
+  umbrella header "Pods-TrendTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
